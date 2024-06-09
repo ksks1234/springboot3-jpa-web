@@ -1,4 +1,4 @@
-package com.book.springboot3_jap_web;
+package com.book.springboot3_jpa_web;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

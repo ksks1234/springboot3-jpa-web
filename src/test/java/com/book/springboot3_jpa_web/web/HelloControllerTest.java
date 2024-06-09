@@ -1,6 +1,5 @@
-package com.book.springboot3_jap_web.web;
+package com.book.springboot3_jpa_web.web;
 
-import com.book.springboot3_jpa_web.web.HelloController;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;

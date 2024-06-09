@@ -1,4 +1,4 @@
-package com.book.springboot3_jap_web.web;
+package com.book.springboot3_jpa_web.web;
 
 import com.book.springboot3_jpa_web.domain.posts.Posts;
 import com.book.springboot3_jpa_web.domain.posts.PostsRepository;

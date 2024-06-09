@@ -1,6 +1,5 @@
-package com.book.springboot3_jap_web.web.dto;
+package com.book.springboot3_jpa_web.web.dto;
 
-import com.book.springboot3_jpa_web.web.dto.HelloResponseDto;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
