@@ -33,8 +33,12 @@ dependencies {
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }
 
-jar {
+tasks.named('jar') {
 	enabled = false
+}
+
+bootJar {
+	archiveFileName = 'springboot3-jpa-web-0.0.1-SNAPSHOT.jar'
 }
 
 tasks.named('test') {
